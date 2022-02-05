@@ -19,4 +19,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanketnadkarni.sanketnadkarni)
 
 
-![Snake animation](https://github.com/sanketnadkarni/sanketnadkarni/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanketnadkarni/sanketnadkarni/blob/tmp/github-contribution-grid-snake.svg)
